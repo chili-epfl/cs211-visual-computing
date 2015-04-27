@@ -1,0 +1,53 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group AB
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Plane>:
+	Raw dimensions (mm): 56, 51, 40.3990478515625
+	Volume: 117299mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+[WW]		Zero Faces: 284
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 703
+		Sharp Edge: 0
+[WW]		Overhang Face: 1137
+	Exporting to <Plane.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 1 part(s) submitted
+- 0 part(s) use a texture
+[EE]	No texture!
+- total volume: 117299
+	 Ok, below limit
+- 3 warnings
+- 1 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/AB//PRINT-tree.blend
+
+Blender quit

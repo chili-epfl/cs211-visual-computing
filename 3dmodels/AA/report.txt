@@ -1,0 +1,325 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group AA
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+[WW] Object <BottomCheese> contains 2 loose part(s)! They are now separated
+[WW] Object <MiddleBun> contains 2 loose part(s)! They are now separated
+[WW] Object <BottomMeat> contains 2 loose part(s)! They are now separated
+[WW] Object <BottomSalad> contains 2 loose part(s)! They are now separated
+[WW] Object <TopSalad> contains 2 loose part(s)! They are now separated
+[WW] Object <TopBun> contains 2 loose part(s)! They are now separated
+[WW] Object <TopCheese> contains 2 loose part(s)! They are now separated
+[WW] Object <TopMeat> contains 2 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <TopMeat.001>:
+	Raw dimensions (mm): 42, 42, 3.5
+	Volume: 6174mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 5
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <TopMeat.001.stl>...
+		Export ok
+Object <TopCheese.001>:
+	Raw dimensions (mm): 41, 41, 1.0
+	Volume: 1763mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <TopCheese.001.stl>...
+		Export ok
+Object <TopBun.001>:
+	Raw dimensions (mm): 42, 42, 14.0
+	Volume: 24696mm3
+	Object use texture <TopBunTexture>
+	Object use texture <bun.png>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 35
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 28
+	Exporting to <TopBun.001.stl>...
+		Export ok
+Object <TopSalad.001>:
+	Raw dimensions (mm): 42, 42, 2.0
+	Volume: 3528mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 5
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <TopSalad.001.stl>...
+		Export ok
+Object <BottomSalad.001>:
+	Raw dimensions (mm): 42, 42, 2.0
+	Volume: 3528mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 6
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <BottomSalad.001.stl>...
+		Export ok
+Object <BottomMeat.001>:
+	Raw dimensions (mm): 42, 42, 3.499999761581421
+	Volume: 6173mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 6
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <BottomMeat.001.stl>...
+		Export ok
+Object <MiddleBun.001>:
+	Raw dimensions (mm): 42, 42, 3.5
+	Volume: 6174mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 4
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <MiddleBun.001.stl>...
+		Export ok
+Object <BottomCheese.001>:
+	Raw dimensions (mm): 42, 42, 1.0
+	Volume: 1764mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <BottomCheese.001.stl>...
+		Export ok
+Object <BottomCheese>:
+	Raw dimensions (mm): 39, 39, 1.309396743774414
+	Volume: 2062mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <BottomCheese.stl>...
+		Export ok
+Object <MiddleBun>:
+	Raw dimensions (mm): 39, 39, 0.7572405338287354
+	Volume: 1156mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 5
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <MiddleBun.stl>...
+		Export ok
+Object <BottomMeat>:
+	Raw dimensions (mm): 39, 39, 0.7572402954101562
+	Volume: 1156mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 6
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <BottomMeat.stl>...
+		Export ok
+Object <BottomSalad>:
+	Raw dimensions (mm): 39, 39, 0.7427597045898438
+	Volume: 1134mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 1
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <BottomSalad.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <TopSalad>:
+	Raw dimensions (mm): 39, 39, 0.7427597045898438
+	Volume: 1134mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <TopSalad.stl>...
+		Export ok
+Object <TopBun>:
+	Raw dimensions (mm): 39, 39, 11.687544822692871
+	Volume: 17857mm3
+	Object use texture <TopBunTexture>
+	Object use texture <bun.png>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 34
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 124
+	Exporting to <TopBun.stl>...
+		Export ok
+Object <TopCheese>:
+	Raw dimensions (mm): 39, 39, 1.309396743774414
+	Volume: 2062mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <TopCheese.stl>...
+		Export ok
+Object <TopMeat>:
+	Raw dimensions (mm): 39, 39, 0.7572402954101562
+	Volume: 1156mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 6
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <TopMeat.stl>...
+		Export ok
+Object <Lamp2>:
+[WW]	Not a mesh, ignoring
+Object <BottomBun>:
+	Raw dimensions (mm): 42, 42, 5.600000381469727
+	Volume: 9878mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 6
+[WW]		Zero Faces: 8
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 32
+[WW]		Thin Faces: 254
+		Sharp Edge: 0
+[WW]		Overhang Face: 735
+	Exporting to <BottomBun.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 17 part(s) submitted
+[WW] Many parts!
+- 2 part(s) use a texture
+- total volume: 91404
+	 Ok, below limit
+- 38 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/AA//BURGERfinal.blend
+
+Blender quit

@@ -1,0 +1,75 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group AI
+
+
+================================
+
+Global unit scale: 0.009999999776482582
+[EE]	 Unit is incorrect!
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Sphere>:
+	Raw dimensions (mm): 5, 5, 2.6765735149383545
+	Volume: 76mm3
+	Object use texture <r2_d2_cubeecraft_by_cubbes.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+Invalid units. Adapting STL export scale...
+	Exporting to <Sphere.stl>...
+		Export ok
+Object <Cylinder>:
+	Raw dimensions (mm): 5, 6, 6.103514194488525
+	Volume: 220mm3
+	Object use texture <r2d2_poster_by_taggraphics-d33i1uz.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 14
+		Zero Faces: 0
+[WW]		Zero Edges: 153
+[WW]		Non-Flat Faces: 388
+[WW]		Thin Faces: 102
+[WW]		Sharp Edge: 41
+[WW]		Overhang Face: 155
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 2 part(s) submitted
+- 2 part(s) use a texture
+- total volume: 297
+[WW]	 Low volume! Wrong unit?
+- 10 warnings
+- 1 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/AI//r2d2LegoTeteFin.blend
+Error, region type 2 missing in - name:"File", id:5
+
+Blender quit

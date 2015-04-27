@@ -1,0 +1,918 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group H
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Cylinder.001>:
+	Raw dimensions (mm): 9, 9, 29.999996185302734
+	Volume: 2999mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 24
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 2
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 3
+	Exporting to <Cylinder.001.stl>...
+		Export ok
+Object <Icosphere.054>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.054.stl>...
+		Export ok
+Object <Icosphere.053>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.053.stl>...
+		Export ok
+Object <Icosphere.052>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.052.stl>...
+		Export ok
+Object <Icosphere.051>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.051.stl>...
+		Export ok
+Object <Icosphere.050>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.050.stl>...
+		Export ok
+Object <Icosphere.049>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.049.stl>...
+		Export ok
+Object <Icosphere.048>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.048.stl>...
+		Export ok
+Object <Icosphere.047>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.047.stl>...
+		Export ok
+Object <Icosphere.046>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.046.stl>...
+		Export ok
+Object <Icosphere.045>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.045.stl>...
+		Export ok
+Object <Icosphere.044>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.044.stl>...
+		Export ok
+Object <Icosphere.043>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.043.stl>...
+		Export ok
+Object <Icosphere.042>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.042.stl>...
+		Export ok
+Object <Icosphere.041>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.041.stl>...
+		Export ok
+Object <Icosphere.040>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.040.stl>...
+		Export ok
+Object <Icosphere.039>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.039.stl>...
+		Export ok
+Object <Icosphere.038>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.038.stl>...
+		Export ok
+Object <Icosphere.037>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.037.stl>...
+		Export ok
+Object <Icosphere.036>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.036.stl>...
+		Export ok
+Object <Icosphere.035>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.035.stl>...
+		Export ok
+Object <Icosphere.034>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.034.stl>...
+		Export ok
+Object <Icosphere.033>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.033.stl>...
+		Export ok
+Object <Icosphere.032>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.032.stl>...
+		Export ok
+Object <Icosphere.031>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.031.stl>...
+		Export ok
+Object <Icosphere.030>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.030.stl>...
+		Export ok
+Object <Icosphere.029>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.029.stl>...
+		Export ok
+Object <Icosphere.028>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.028.stl>...
+		Export ok
+Object <Icosphere.027>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.027.stl>...
+		Export ok
+Object <Icosphere.026>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.026.stl>...
+		Export ok
+Object <Icosphere.025>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.025.stl>...
+		Export ok
+Object <Icosphere.024>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.024.stl>...
+		Export ok
+Object <Icosphere.023>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.023.stl>...
+		Export ok
+Object <Icosphere.022>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.022.stl>...
+		Export ok
+Object <Icosphere.021>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.021.stl>...
+		Export ok
+Object <Icosphere.020>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.020.stl>...
+		Export ok
+Object <Icosphere.019>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.019.stl>...
+		Export ok
+Object <Icosphere.018>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.018.stl>...
+		Export ok
+Object <Icosphere.017>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.017.stl>...
+		Export ok
+Object <Icosphere.016>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.016.stl>...
+		Export ok
+Object <Icosphere.015>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.015.stl>...
+		Export ok
+Object <Icosphere.014>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.014.stl>...
+		Export ok
+Object <Icosphere.013>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.013.stl>...
+		Export ok
+Object <Icosphere.012>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.012.stl>...
+		Export ok
+Object <Icosphere.011>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.011.stl>...
+		Export ok
+Object <Icosphere.010>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.010.stl>...
+		Export ok
+Object <Icosphere.009>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.009.stl>...
+		Export ok
+Object <Icosphere.008>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.008.stl>...
+		Export ok
+Object <Icosphere.007>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.007.stl>...
+		Export ok
+Object <Icosphere.006>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.006.stl>...
+		Export ok
+Object <Icosphere.005>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.005.stl>...
+		Export ok
+Object <Icosphere.004>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.004.stl>...
+		Export ok
+Object <Icosphere.003>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.003.stl>...
+		Export ok
+Object <Icosphere.002>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.002.stl>...
+		Export ok
+Object <Icosphere.001>:
+	Raw dimensions (mm): 19, 19, 19.999998092651367
+	Volume: 7608mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 10
+	Exporting to <Icosphere.001.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 55 part(s) submitted
+[WW] Many parts!
+- 0 part(s) use a texture
+[EE]	No texture!
+- total volume: 413856
+[EE]	Above limit (360000mm3)!
+- 58 warnings
+- 2 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/H//tree.blend
+
+Blender quit

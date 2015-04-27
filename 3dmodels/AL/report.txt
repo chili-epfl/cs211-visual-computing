@@ -1,0 +1,224 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group AL
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+[WW] Object <tree> contains 10 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <tree.009>:
+	Raw dimensions (mm): 79, 79, 20.9999942779541
+	Volume: 133059mm3
+	Object use texture <foliage.jpg>
+	Object use texture <trunk.jpg>
+	Object use texture <terre.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 2
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 3
+	Exporting to <tree.009.stl>...
+		Export ok
+Object <tree.008>:
+	Raw dimensions (mm): 8, 18, 7.186667442321777
+	Volume: 1097mm3
+	Object use texture <foliage.jpg>
+	Object use texture <trunk.jpg>
+	Object use texture <terre.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 71
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 3
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 4
+[WW]		Thin Faces: 36
+		Sharp Edge: 0
+[WW]		Overhang Face: 8
+	Exporting to <tree.008.stl>...
+		Export ok
+Object <tree.007>:
+	Raw dimensions (mm): 13, 12, 6.691891193389893
+	Volume: 1117mm3
+	Object use texture <foliage.jpg>
+	Object use texture <trunk.jpg>
+	Object use texture <terre.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 66
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 3
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 2
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 7
+	Exporting to <tree.007.stl>...
+		Export ok
+Object <tree.006>:
+	Raw dimensions (mm): 8, 9, 7.913839340209961
+	Volume: 622mm3
+	Object use texture <foliage.jpg>
+	Object use texture <trunk.jpg>
+	Object use texture <terre.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 70
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 6
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <tree.006.stl>...
+		Export ok
+Object <tree.005>:
+	Raw dimensions (mm): 11, 12, 33.829017639160156
+	Volume: 5128mm3
+	Object use texture <foliage.jpg>
+	Object use texture <trunk.jpg>
+	Object use texture <terre.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <tree.005.stl>...
+		Export ok
+Object <tree.004>:
+	Raw dimensions (mm): 3, 1, 1.8115960359573364
+	Volume: 8mm3
+	Object use texture <foliage.jpg>
+	Object use texture <trunk.jpg>
+	Object use texture <terre.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 4
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 2
+	Exporting to <tree.004.stl>...
+		Export ok
+Object <tree.003>:
+	Raw dimensions (mm): 13, 22, 14.252984046936035
+	Volume: 4272mm3
+	Object use texture <foliage.jpg>
+	Object use texture <trunk.jpg>
+	Object use texture <terre.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 16
+	Exporting to <tree.003.stl>...
+		Export ok
+Object <tree.002>:
+	Raw dimensions (mm): 32, 15, 21.575172424316406
+	Volume: 10916mm3
+	Object use texture <foliage.jpg>
+	Object use texture <trunk.jpg>
+	Object use texture <terre.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 9
+	Exporting to <tree.002.stl>...
+		Export ok
+Object <tree.001>:
+	Raw dimensions (mm): 46, 23, 23.69771957397461
+	Volume: 26319mm3
+	Object use texture <foliage.jpg>
+	Object use texture <trunk.jpg>
+	Object use texture <terre.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 18
+	Exporting to <tree.001.stl>...
+		Export ok
+Object <tree>:
+	Raw dimensions (mm): 67, 67, 18.39999771118164
+	Volume: 84967mm3
+	Object use texture <foliage.jpg>
+	Object use texture <trunk.jpg>
+	Object use texture <terre.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 10
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 2
+[WW]		Thin Faces: 4
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <tree.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.001>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 10 part(s) submitted
+[WW] Many parts!
+- 10 part(s) use a texture
+- total volume: 267509
+	 Ok, below limit
+- 27 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/AL//Milestone2.blend
+
+Blender quit
