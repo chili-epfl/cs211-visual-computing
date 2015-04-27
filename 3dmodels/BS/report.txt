@@ -1,0 +1,137 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group BS
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <socle>:
+	Raw dimensions (mm): 50, 50, 8.0
+	Volume: 20000mm3
+	Object use texture <Material.003 Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 678
+[WW]		Zero Faces: 36
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 5
+[WW]		Thin Faces: 300
+		Sharp Edge: 0
+[WW]		Overhang Face: 41
+	Exporting to <socle.stl>...
+		Export ok
+Object <tronc>:
+	Raw dimensions (mm): 14, 14, 15.932939529418945
+	Volume: 3555mm3
+	Object use texture <Material.002 Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <tronc.stl>...
+		Export ok
+Object <feuillage-1>:
+	Raw dimensions (mm): 59, 59, 14.938495635986328
+	Volume: 53338mm3
+	Object use texture <Material.001 Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 28
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 33
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <feuillage-1.stl>...
+		Export ok
+Object <feuillage-2>:
+	Raw dimensions (mm): 39, 39, 9.958995819091797
+	Volume: 15803mm3
+	Object use texture <Material.001 Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 13
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 2
+[WW]		Thin Faces: 34
+		Sharp Edge: 0
+[WW]		Overhang Face: 3
+	Exporting to <feuillage-2.stl>...
+		Export ok
+Object <feuillage-3>:
+	Raw dimensions (mm): 29, 29, 6.224376678466797
+	Volume: 5556mm3
+	Object use texture <Material.001 Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 1
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 33
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <feuillage-3.stl>...
+		Export ok
+Object <feuillage-4>:
+	Raw dimensions (mm): 19, 19, 7.469249725341797
+	Volume: 2963mm3
+	Object use texture <Material.001 Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 7
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 2
+[WW]		Thin Faces: 34
+		Sharp Edge: 0
+[WW]		Overhang Face: 3
+	Exporting to <feuillage-4.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 6 part(s) submitted
+[WW] Many parts!
+- 6 part(s) use a texture
+- total volume: 101217
+	 Ok, below limit
+- 20 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/BS//sapin-f.blend
+
+Blender quit

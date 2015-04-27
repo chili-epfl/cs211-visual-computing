@@ -1,0 +1,113 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group AD
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Spot.002>:
+[WW]	Not a mesh, ignoring
+Object <Spot.001>:
+[WW]	Not a mesh, ignoring
+Object <Spot>:
+[WW]	Not a mesh, ignoring
+Object <Area>:
+[WW]	Not a mesh, ignoring
+Object <BouteilleHaut>:
+	Raw dimensions (mm): 26, 26, 39.93449020385742
+	Volume: 28362mm3
+	Object use texture <2.jpg>
+	Object use texture <Verre vert Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <BouteilleHaut.stl>...
+		Export ok
+Object <Cylinder>:
+	Raw dimensions (mm): 29, 29, 2.200000047683716
+	Volume: 1875mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <Cylinder.stl>...
+		Export ok
+Object <Bouteille bas>:
+	Raw dimensions (mm): 26, 26, 49.99999237060547
+	Volume: 35511mm3
+	Object use texture <Material.002 Diffuse Color>
+	Object use texture <Yellow_Marker_Texture_Stock_by_Enchantedgal_Stock.jpg>
+	Object use texture <Biere.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 115
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 19
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <Bouteille bas.stl>...
+		Export ok
+Object <Capsule>:
+	Raw dimensions (mm): 11, 11, 2.746975898742676
+	Volume: 383mm3
+	Object use texture <Material Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <Capsule.stl>...
+		Export ok
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 4 part(s) submitted
+- 3 part(s) use a texture
+- total volume: 66133
+	 Ok, below limit
+- 7 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/AD//bouteille_logo.blend
+
+Blender quit

@@ -1,0 +1,16 @@
+solid Exported from Blender-2.74 (sub 0)
+facet normal -0.084883 -0.500041 0.861832
+outer loop
+vertex 1.569541 16.876915 -7.890604
+vertex 0.000002 16.876915 -8.045191
+vertex 1.886402 5.701890 -14.343224
+endloop
+endfacet
+facet normal -0.084892 -0.500040 0.861832
+outer loop
+vertex 1.886402 5.701890 -14.343224
+vertex 1.994470 5.701890 -14.332580
+vertex 1.569541 16.876915 -7.890604
+endloop
+endfacet
+endsolid Exported from Blender-2.74 (sub 0)

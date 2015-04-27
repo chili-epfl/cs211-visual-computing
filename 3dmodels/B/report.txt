@@ -1,0 +1,77 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group B
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Lamp.001>:
+[WW]	Not a mesh, ignoring
+Object <Cylinder.001>:
+	Raw dimensions (mm): 59, 59, 6.959249973297119
+	Volume: 24886mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2393
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 900
+		Sharp Edge: 0
+[WW]		Overhang Face: 2048
+	Exporting to <Cylinder.001.stl>...
+		Export ok
+Object <Cylinder>:
+	Raw dimensions (mm): 44, 42, 99.96711730957031
+	Volume: 189885mm3
+	Object use texture <Wood>
+	Object use texture <old_planks_with_medieval_metal_hinges_2_20131003_1928884194.jpg>
+	Object use texture <planks_clean_set_9_20140425_1860202512.jpg>
+	Object use texture <medieval_bricks_from_athen_2_20131012_1453304091.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 36
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 12572
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1127
+[WW]		Thin Faces: 3191
+[WW]		Sharp Edge: 1
+[WW]		Overhang Face: 1772
+	Exporting to <Cylinder.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 2 part(s) submitted
+- 1 part(s) use a texture
+- total volume: 214771
+	 Ok, below limit
+- 12 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/B//Towerv2.blend
+
+Blender quit

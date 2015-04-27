@@ -1,0 +1,74 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group E
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <abasJour>:
+	Raw dimensions (mm): 59, 59, 37.0
+	Volume: 133199mm3
+	Object use texture <Material.001 Translucency>
+	Object use texture <tissu-komodo.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <abasJour.stl>...
+		Export ok
+Object <pied>:
+	Raw dimensions (mm): 51, 50, 37.66579055786133
+	Volume: 97968mm3
+	Object use texture <Material.002 Diffuse Color>
+	Object use texture <background_wood.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 1
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 22
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 6
+	Exporting to <pied.stl>...
+		Export ok
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 2 part(s) submitted
+- 2 part(s) use a texture
+- total volume: 231168
+	 Ok, below limit
+- 5 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/E//lamp.blend
+
+Blender quit

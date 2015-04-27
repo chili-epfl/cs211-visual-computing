@@ -1,0 +1,104 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group AF
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+[WW] Object <phare> contains 2 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <phare.001>:
+	Raw dimensions (mm): 29, 29, 79.0514144897461
+	Volume: 70362mm3
+	Object use texture <lumiere.jpg>
+	Object use texture <redMetal.jpg>
+	Object use texture <blanc.jpg.001>
+	Object use texture <Blanc Diffuse Color.001>
+	Object use texture <texture-grise-de-roche-762112.jpg>
+	Object use texture <Socle Diffuse Color>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 103
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 2
+[WW]		Thin Faces: 1
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <phare.001.stl>...
+		Export ok
+Object <phare>:
+	Raw dimensions (mm): 41, 41, 17.234725952148438
+	Volume: 29002mm3
+	Object use texture <lumiere.jpg>
+	Object use texture <redMetal.jpg>
+	Object use texture <blanc.jpg.001>
+	Object use texture <Blanc Diffuse Color.001>
+	Object use texture <texture-grise-de-roche-762112.jpg>
+	Object use texture <Socle Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 211
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 23
+[WW]		Thin Faces: 198
+		Sharp Edge: 0
+[WW]		Overhang Face: 21
+	Exporting to <phare.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.001>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.002>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.003>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.004>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.005>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.006>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.007>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.008>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.009>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.010>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 2 part(s) submitted
+- 2 part(s) use a texture
+- total volume: 99365
+	 Ok, below limit
+- 21 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/AF//Rendu2GroupAF.blend
+Error, region type 2 missing in - name:"File", id:5
+
+Blender quit

@@ -1,0 +1,347 @@
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/T//chateauBase12.blend
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group T
+
+
+================================
+
+Global unit scale: 0.009999999776482582
+[EE]	 Unit is incorrect!
+
+
+--------------------------------
+
+[WW] Object <Tour> contains 2 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <Tour.003>:
+	Raw dimensions (mm): 5, 5, 9.746262550354004
+	Volume: 262mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 960
+Invalid units. Adapting STL export scale...
+	Exporting to <Tour.003.stl>...
+		Export ok
+Object <Circle.009>:
+	Raw dimensions (mm): 0, 0, 0.17000004649162292
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Circle.009.stl>...
+		Export ok
+Object <Circle.007>:
+	Raw dimensions (mm): 0, 0, 0.5100001096725464
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 64
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 128
+Invalid units. Adapting STL export scale...
+	Exporting to <Circle.007.stl>...
+		Export ok
+Object <Tour.002>:
+	Raw dimensions (mm): 4, 4, 0.9000006914138794
+	Volume: 14mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 64
+		Sharp Edge: 0
+[WW]		Overhang Face: 760
+Invalid units. Adapting STL export scale...
+	Exporting to <Tour.002.stl>...
+		Export ok
+Object <Tour.001>:
+	Raw dimensions (mm): 4, 4, 0.9000000953674316
+	Volume: 14mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 416
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 528
+		Sharp Edge: 0
+[WW]		Overhang Face: 384
+Invalid units. Adapting STL export scale...
+	Exporting to <Tour.001.stl>...
+		Export ok
+Object <Circle.008>:
+	Raw dimensions (mm): 0, 0, 0.9000000953674316
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 64
+		Sharp Edge: 0
+[WW]		Overhang Face: 32
+Invalid units. Adapting STL export scale...
+	Exporting to <Circle.008.stl>...
+		Export ok
+Object <Circle.006>:
+	Raw dimensions (mm): 3, 3, 0.0
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+Invalid units. Adapting STL export scale...
+	Exporting to <Circle.006.stl>...
+		Export ok
+Object <Circle.005>:
+	Raw dimensions (mm): 0, 0, 0.0
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 64
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 32
+Invalid units. Adapting STL export scale...
+	Exporting to <Circle.005.stl>...
+		Export ok
+Object <Circle.004>:
+	Raw dimensions (mm): 0, 0, 0.0
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+Invalid units. Adapting STL export scale...
+	Exporting to <Circle.004.stl>...
+		Export ok
+Object <Circle.003>:
+	Raw dimensions (mm): 0, 0, 0.0
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+Invalid units. Adapting STL export scale...
+	Exporting to <Circle.003.stl>...
+		Export ok
+Object <Circle.002>:
+	Raw dimensions (mm): 0, 0, 0.0
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+Invalid units. Adapting STL export scale...
+	Exporting to <Circle.002.stl>...
+		Export ok
+Object <Circle.001>:
+	Raw dimensions (mm): 0, 0, 0.0
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+Invalid units. Adapting STL export scale...
+	Exporting to <Circle.001.stl>...
+		Export ok
+Object <Plane.002>:
+	Raw dimensions (mm): 5, 5, 10.000000953674316
+	Volume: 275mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 35
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 36
+[WW]		Thin Faces: 82
+		Sharp Edge: 0
+[WW]		Overhang Face: 36
+Invalid units. Adapting STL export scale...
+	Exporting to <Plane.002.stl>...
+		Export ok
+Object <Sun>:
+[WW]	Not a mesh, ignoring
+Object <Plane.001>:
+	Raw dimensions (mm): 2, 2, 6.0
+	Volume: 24mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 18
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1
+[WW]		Thin Faces: 2
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Plane.001.stl>...
+		Export ok
+Object <Lego Knob>:
+	Raw dimensions (mm): 3, 3, 0.5256554484367371
+	Volume: 5mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 76
+		Sharp Edge: 0
+[WW]		Overhang Face: 12
+Invalid units. Adapting STL export scale...
+	Exporting to <Lego Knob.stl>...
+		Export ok
+Object <Tour>:
+	Raw dimensions (mm): 2, 2, 7.750217437744141
+	Volume: 63mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+Invalid units. Adapting STL export scale...
+	Exporting to <Tour.stl>...
+		Export ok
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 16 part(s) submitted
+[WW] Many parts!
+- 0 part(s) use a texture
+[EE]	No texture!
+- total volume: 659
+[WW]	 Low volume! Wrong unit?
+- 33 warnings
+- 2 errors
+
+Blender quit

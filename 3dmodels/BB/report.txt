@@ -1,0 +1,69 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group BB
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Cube>:
+	Raw dimensions (mm): 83, 82, 51.03622817993164
+	Volume: 348515mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 21
+[WW]		Zero Faces: 12
+[WW]		Zero Edges: 12
+[WW]		Non-Flat Faces: 14
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 7
+	Exporting to <Cube.stl>...
+		Export ok
+Object <Cylinder.001>:
+	Raw dimensions (mm): 28, 33, 75.10331726074219
+	Volume: 71684mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 351
+[WW]		Zero Faces: 18
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 393
+[WW]		Thin Faces: 381
+[WW]		Sharp Edge: 4
+[WW]		Overhang Face: 407
+	Exporting to <Cylinder.001.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 2 part(s) submitted
+- 0 part(s) use a texture
+[EE]	No texture!
+- total volume: 420199
+[EE]	Above limit (360000mm3)!
+- 11 warnings
+- 2 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/BB//tree.blend
+
+Blender quit

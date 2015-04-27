@@ -1,0 +1,139 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group AC
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+[WW] Object <Cylinder> contains 5 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <Cylinder.005>:
+	Raw dimensions (mm): 1, 6, 11.175025939941406
+	Volume: 143mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 4
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 1
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Cylinder.005.stl>...
+		Export ok
+Object <Cylinder.004>:
+	Raw dimensions (mm): 2, 4, 5.977014541625977
+	Volume: 57mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 4
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Cylinder.004.stl>...
+		Export ok
+Object <Cylinder.003>:
+	Raw dimensions (mm): 5, 7, 18.42034912109375
+	Volume: 741mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 12
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 4
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Cylinder.003.stl>...
+		Export ok
+Object <Cylinder.002>:
+	Raw dimensions (mm): 31, 24, 58.20512390136719
+	Volume: 45298mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 16
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 92
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 33
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 34
+	Exporting to <Cylinder.002.stl>...
+		Export ok
+Object <Cylinder>:
+	Raw dimensions (mm): 0, 0, 2.1174144744873047
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 1
+[WW]		Bad Contig. Edges: 8
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Cylinder.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <Cylinder.001>:
+	Raw dimensions (mm): 7, 8, 2.7853736877441406
+	Volume: 162mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Cylinder.001.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 6 part(s) submitted
+[WW] Many parts!
+- 0 part(s) use a texture
+[EE]	No texture!
+- total volume: 46403
+	 Ok, below limit
+- 17 warnings
+- 1 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/AC//pingouin_lego[merged by severin].blend
+
+Blender quit

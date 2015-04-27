@@ -1,0 +1,153 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group Y
+
+
+================================
+
+Global unit scale: 1.0
+[EE]	 Unit is incorrect!
+
+
+--------------------------------
+
+[WW] Object <nacelle> contains 5 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <nacelle.004>:
+	Raw dimensions (mm): 0, 0, 0.028918132185935974
+	Volume: 0mm3
+	Object use texture <cordeTexture>
+	Object use texture <nacTexture>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 16
+[WW]		Zero Faces: 151
+[WW]		Zero Edges: 5
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 42
+[WW]		Sharp Edge: 9
+[WW]		Overhang Face: 2
+Invalid units. Adapting STL export scale...
+	Exporting to <nacelle.004.stl>...
+		Export ok
+Object <nacelle.003>:
+	Raw dimensions (mm): 0, 0, 0.02880111336708069
+	Volume: 0mm3
+	Object use texture <cordeTexture>
+	Object use texture <nacTexture>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 16
+[WW]		Zero Faces: 151
+[WW]		Zero Edges: 5
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 41
+[WW]		Sharp Edge: 9
+[WW]		Overhang Face: 2
+Invalid units. Adapting STL export scale...
+	Exporting to <nacelle.003.stl>...
+		Export ok
+Object <nacelle.002>:
+	Raw dimensions (mm): 0, 0, 0.028640858829021454
+	Volume: 0mm3
+	Object use texture <cordeTexture>
+	Object use texture <nacTexture>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 16
+[WW]		Zero Faces: 151
+[WW]		Zero Edges: 5
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 42
+[WW]		Sharp Edge: 9
+[WW]		Overhang Face: 2
+Invalid units. Adapting STL export scale...
+	Exporting to <nacelle.002.stl>...
+		Export ok
+Object <nacelle.001>:
+	Raw dimensions (mm): 0, 0, 0.02784840762615204
+	Volume: 0mm3
+	Object use texture <cordeTexture>
+	Object use texture <nacTexture>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 16
+[WW]		Zero Faces: 151
+[WW]		Zero Edges: 5
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 42
+[WW]		Sharp Edge: 9
+[WW]		Overhang Face: 2
+Invalid units. Adapting STL export scale...
+	Exporting to <nacelle.001.stl>...
+		Export ok
+Object <nacelle>:
+	Raw dimensions (mm): 0, 0, 0.034636158496141434
+	Volume: 0mm3
+	Object use texture <cordeTexture>
+	Object use texture <nacTexture>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 5
+[WW]		Zero Faces: 2860
+[WW]		Zero Edges: 47
+[WW]		Non-Flat Faces: 98
+[WW]		Thin Faces: 44
+[WW]		Sharp Edge: 5
+[WW]		Overhang Face: 60
+Invalid units. Adapting STL export scale...
+	Exporting to <nacelle.stl>...
+		Export ok
+Object <Point.001>:
+[WW]	Not a mesh, ignoring
+Object <Point>:
+[WW]	Not a mesh, ignoring
+Object <baloon>:
+	Raw dimensions (mm): 0, 0, 0.08486991375684738
+	Volume: 0mm3
+	Object use texture <baloonTex>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+[WW]		Zero Faces: 4
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 110
+Invalid units. Adapting STL export scale...
+	Exporting to <baloon.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 6 part(s) submitted
+[WW] Many parts!
+- 6 part(s) use a texture
+- total volume: 0
+[WW]	 Low volume! Wrong unit?
+- 41 warnings
+- 1 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/Y//nacelle[lego knobs removed by severin].blend
+
+Blender quit

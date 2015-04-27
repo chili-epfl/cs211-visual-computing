@@ -1,0 +1,115 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group BO
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+[WW] Object <bouchon> contains 2 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <bouchon.001>:
+	Raw dimensions (mm): 11, 21, 1.2061288356781006
+	Volume: 285mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 3802
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 4
+[WW]		Thin Faces: 21
+		Sharp Edge: 0
+[WW]		Overhang Face: 1760
+	Exporting to <bouchon.001.stl>...
+		Export ok
+Object <couvercle>:
+	Raw dimensions (mm): 35, 35, 2.0
+	Volume: 2561mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 16
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <couvercle.stl>...
+		Export ok
+Object <Point.004>:
+[WW]	Not a mesh, ignoring
+Object <Point.003>:
+[WW]	Not a mesh, ignoring
+Object <Point.002>:
+[WW]	Not a mesh, ignoring
+Object <Point.001>:
+[WW]	Not a mesh, ignoring
+Object <Point>:
+[WW]	Not a mesh, ignoring
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <bouchon>:
+	Raw dimensions (mm): 1, 1, 0.5874326229095459
+	Volume: 2mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 256
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 1701
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 513
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <bouchon.stl>...
+		Export ok
+Object <canette>:
+	Raw dimensions (mm): 41, 41, 77.00837707519531
+	Volume: 134012mm3
+	Object use texture <CocaColaColorMap.jpg.001>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 142
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 223
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 73
+[WW]		Thin Faces: 303
+[WW]		Sharp Edge: 4
+[WW]		Overhang Face: 5
+	Exporting to <canette.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 4 part(s) submitted
+- 1 part(s) use a texture
+- total volume: 136862
+	 Ok, below limit
+- 23 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/BO//rendu.blend
+
+Blender quit

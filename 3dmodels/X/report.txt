@@ -1,0 +1,82 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group X
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Sun>:
+[WW]	Not a mesh, ignoring
+Object <Cylinder>:
+	Raw dimensions (mm): 0, 0, 0.001999974250793457
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 34
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <Cylinder.stl>...
+		Export ok
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <Lighthouse>:
+	Raw dimensions (mm): 45, 45, 90.49433135986328
+	Volume: 186246mm3
+	Object use texture <peeling-painted-brick-wall.jpg>
+	Object use texture <diagonal.png>
+	Object use texture <peeling-painted-brick-wall.jpg>
+	Object use texture <rusty.jpg>
+	Object use texture <glass.jpg>
+	Object use texture <old_paint.jpg>
+	Object use texture <peeling-painted-brick-wall.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 13
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 5
+	Exporting to <Lighthouse.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 2 part(s) submitted
+- 1 part(s) use a texture
+- total volume: 186246
+	 Ok, below limit
+- 5 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/X//Lighthouse_printable2.blend
+Error, region type 2 missing in - name:"File", id:5
+Error, region type 2 missing in - name:"File", id:5
+Error, region type 2 missing in - name:"File", id:5
+Error, region type 2 missing in - name:"File", id:5
+
+Blender quit

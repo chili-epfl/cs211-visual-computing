@@ -1,0 +1,124 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group D
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+[WW] Object <top> contains 2 loose part(s)! They are now separated
+[WW] Object <top.001> contains 2 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <top.003>:
+	Raw dimensions (mm): 37, 38, 55.94820785522461
+	Volume: 82390mm3
+	Object use texture <tower_arti.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 20
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 4
+[WW]		Zero Faces: 78
+[WW]		Zero Edges: 71
+[WW]		Non-Flat Faces: 99
+[WW]		Thin Faces: 12
+		Sharp Edge: 0
+[WW]		Overhang Face: 12
+	Exporting to <top.003.stl>...
+		Export ok
+Object <top.002>:
+	Raw dimensions (mm): 37, 37, 92.59972381591797
+	Volume: 127494mm3
+	Object use texture <tower_arti.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 4
+[WW]		Zero Faces: 78
+[WW]		Zero Edges: 31
+[WW]		Non-Flat Faces: 65
+[WW]		Thin Faces: 1
+		Sharp Edge: 0
+[WW]		Overhang Face: 13
+	Exporting to <top.002.stl>...
+		Export ok
+Object <Cube>:
+	Raw dimensions (mm): 59, 59, 99.99999237060547
+	Volume: 359999mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <Cube.stl>...
+		Export ok
+Object <top>:
+	Raw dimensions (mm): 35, 37, 2.8521087169647217
+	Volume: 3721mm3
+	Object use texture <tower_arti.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 30
+[WW]		Bad Contig. Edges: 247
+[WW]		Intersect Face: 1
+[WW]		Zero Faces: 54
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 91
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 16
+	Exporting to <top.stl>...
+		Export ok
+Object <top.001>:
+	Raw dimensions (mm): 36, 38, 2.9836132526397705
+	Volume: 4263mm3
+	Object use texture <tower_arti.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+		Zero Faces: 0
+[WW]		Zero Edges: 20
+[WW]		Non-Flat Faces: 18
+[WW]		Thin Faces: 6
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <top.001.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.001>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 5 part(s) submitted
+- 4 part(s) use a texture
+- total volume: 577869
+[EE]	Above limit (360000mm3)!
+- 28 warnings
+- 1 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/D//tower_m45.blend
+
+Blender quit

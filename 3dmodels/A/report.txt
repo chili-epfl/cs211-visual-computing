@@ -1,0 +1,186 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group A
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+[WW] Object <Cube.001> contains 7 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <Cube.008>:
+	Raw dimensions (mm): 1, 1, 0.7160690426826477
+	Volume: 1mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 3
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Cube.008.stl>...
+		Export ok
+Object <Cube.007>:
+	Raw dimensions (mm): 4, 6, 1.6709092855453491
+	Volume: 45mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 4
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Cube.007.stl>...
+		Export ok
+Object <Cube.006>:
+	Raw dimensions (mm): 1, 4, 1.2983790636062622
+	Volume: 10mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 4
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Cube.006.stl>...
+		Export ok
+Object <Cube.005>:
+	Raw dimensions (mm): 5, 6, 2.4750382900238037
+	Volume: 88mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 11
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <Cube.005.stl>...
+		Export ok
+Object <Cube.004>:
+	Raw dimensions (mm): 2, 3, 0.8063524961471558
+	Volume: 6mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 3
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Cube.004.stl>...
+		Export ok
+Object <Cube.003>:
+	Raw dimensions (mm): 37, 44, 29.506288528442383
+	Volume: 49031mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 145
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 7
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 4
+[WW]		Thin Faces: 102
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <Cube.003.stl>...
+		Export ok
+Object <Cube>:
+	Raw dimensions (mm): 59, 59, 99.99999237060547
+	Volume: 359999mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <Cube.stl>...
+		Export ok
+Object <Cube.002>:
+	Raw dimensions (mm): 42, 44, 21.72672462463379
+	Volume: 41037mm3
+	Object use texture <Feillage Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+[WW]		Zero Faces: 4
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 2
+	Exporting to <Cube.002.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <Cube.001>:
+	Raw dimensions (mm): 1, 1, 0.7576565146446228
+	Volume: 1mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 4
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 2
+	Exporting to <Cube.001.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 9 part(s) submitted
+[WW] Many parts!
+- 1 part(s) use a texture
+- total volume: 450221
+[EE]	Above limit (360000mm3)!
+- 21 warnings
+- 1 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/A//arbre21 [lego knobs removed by severin].blend
+
+Blender quit

@@ -1,0 +1,57 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group BL
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Cylinder.001>:
+	Raw dimensions (mm): 31, 31, 73.30000305175781
+	Volume: 73565mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 250
+[WW]		Bad Contig. Edges: 2
+[WW]		Intersect Face: 1139
+[WW]		Zero Faces: 225
+[WW]		Zero Edges: 510
+[WW]		Non-Flat Faces: 282
+[WW]		Thin Faces: 6
+[WW]		Sharp Edge: 22
+[WW]		Overhang Face: 191
+	Exporting to <Cylinder.001.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 1 part(s) submitted
+- 0 part(s) use a texture
+[EE]	No texture!
+- total volume: 73565
+	 Ok, below limit
+- 11 warnings
+- 1 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/BL//final.blend
+
+Blender quit

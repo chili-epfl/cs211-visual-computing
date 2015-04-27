@@ -1,0 +1,88 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group J
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Feuillage Haut>:
+	Raw dimensions (mm): 53, 47, 13.652302742004395
+	Volume: 34655mm3
+	Object use texture <Material.002 Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+[WW]		Zero Faces: 36
+[WW]		Zero Edges: 4
+[WW]		Non-Flat Faces: 1
+[WW]		Thin Faces: 129
+		Sharp Edge: 0
+[WW]		Overhang Face: 1684
+	Exporting to <Feuillage Haut.stl>...
+		Export ok
+Object <Tronc>:
+	Raw dimensions (mm): 17, 18, 29.589324951171875
+	Volume: 9720mm3
+	Object use texture <trunk.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 33
+[WW]		Thin Faces: 229
+		Sharp Edge: 0
+[WW]		Overhang Face: 153
+	Exporting to <Tronc.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <Feuillage Bas>:
+	Raw dimensions (mm): 54, 49, 15.251578330993652
+	Volume: 41130mm3
+	Object use texture <Material Diffuse Color.005>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 1
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 2
+[WW]		Thin Faces: 179
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <Feuillage Bas.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 3 part(s) submitted
+- 3 part(s) use a texture
+- total volume: 85507
+	 Ok, below limit
+- 13 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/J//gradedtree.blend
+
+Blender quit

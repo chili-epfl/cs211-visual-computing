@@ -1,0 +1,140 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group U
+
+
+================================
+
+Global unit scale: 0.10000000149011612
+[EE]	 Unit is incorrect!
+
+
+--------------------------------
+
+[WW] Object <tower.010> contains 3 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <tower.001>:
+	Raw dimensions (mm): 0, 0, 0.0021904483437538147
+	Volume: 0mm3
+	Object use texture <Bricks07.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+[WW]		Zero Faces: 7
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1
+[WW]		Thin Faces: 5
+[WW]		Sharp Edge: 2
+		Overhang Face: 0
+Invalid units. Adapting STL export scale...
+	Exporting to <tower.001.stl>...
+		Export ok
+Object <tower.000>:
+	Raw dimensions (mm): 0, 0, 0.20852306485176086
+	Volume: 0mm3
+	Object use texture <Bricks07.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 31704
+[WW]		Zero Edges: 19
+[WW]		Non-Flat Faces: 394
+[WW]		Thin Faces: 6830
+[WW]		Sharp Edge: 50
+[WW]		Overhang Face: 811
+Invalid units. Adapting STL export scale...
+	Exporting to <tower.000.stl>...
+		Export ok
+Object <tower.013>:
+	Raw dimensions (mm): 0, 0, 0.1851850003004074
+	Volume: 0mm3
+	Object use texture <Bricks07.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 1
+[WW]		Zero Faces: 31349
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 217
+[WW]		Thin Faces: 3296
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <tower.013.stl>...
+		Export ok
+Object <tower.012>:
+	Raw dimensions (mm): 0, 0, 0.131715789437294
+	Volume: 0mm3
+	Object use texture <Bricks07.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 21
+[WW]		Zero Faces: 58729
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1362
+[WW]		Thin Faces: 23429
+[WW]		Sharp Edge: 1
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <tower.012.stl>...
+		Export ok
+Object <tower.011>:
+	Raw dimensions (mm): 0, 0, 0.47642436623573303
+	Volume: 0mm3
+	Object use texture <Bricks07.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 1
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 31
+[WW]		Zero Faces: 89886
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1193
+[WW]		Thin Faces: 14033
+[WW]		Sharp Edge: 5
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <tower.011.stl>...
+		Export ok
+Object <tower.010>:
+	Raw dimensions (mm): 0, 0, 0.0006447574705816805
+	Volume: 0mm3
+	Object use texture <Bricks07.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+[WW]		Zero Faces: 7
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+[WW]		Sharp Edge: 2
+		Overhang Face: 0
+Invalid units. Adapting STL export scale...
+	Exporting to <tower.010.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 6 part(s) submitted
+[WW] Many parts!
+- 6 part(s) use a texture
+- total volume: 0
+[WW]	 Low volume! Wrong unit?
+- 31 warnings
+- 1 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/U//tower_for3DPrint.blend
+
+Blender quit

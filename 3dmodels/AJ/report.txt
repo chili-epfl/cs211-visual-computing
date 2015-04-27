@@ -1,0 +1,92 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group AJ
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+[WW] Object <Cylinder.001> contains 2 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <Cylinder.002>:
+	Raw dimensions (mm): 60, 60, 11.819278717041016
+	Volume: 42549mm3
+	Object use texture <masse Diffuse Color>
+	Object use texture <goldScratch.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+[WW]		Zero Faces: 45
+[WW]		Zero Edges: 1
+[WW]		Non-Flat Faces: 39
+[WW]		Thin Faces: 4
+		Sharp Edge: 0
+[WW]		Overhang Face: 39
+	Exporting to <Cylinder.002.stl>...
+		Export ok
+Object <Cylinder.001>:
+	Raw dimensions (mm): 42, 42, 26.5006103515625
+	Volume: 48790mm3
+	Object use texture <masse Diffuse Color>
+	Object use texture <goldScratch.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 80
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Cylinder.001.stl>...
+		Export ok
+Object <Cylinder>:
+	Raw dimensions (mm): 42, 42, 49.043914794921875
+	Volume: 90295mm3
+	Object use texture <tronc Diffuse Color>
+	Object use texture <marbreTexture.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 64
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Cylinder.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 3 part(s) submitted
+- 3 part(s) use a texture
+- total volume: 181635
+	 Ok, below limit
+- 11 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/AJ//TowerChess.blend
+
+Blender quit

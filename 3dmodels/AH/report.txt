@@ -1,0 +1,349 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group AH
+
+
+================================
+
+Global unit scale: 0.009999999776482582
+[EE]	 Unit is incorrect!
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Plane.001>:
+	Raw dimensions (mm): 2, 2, 1.403371810913086
+	Volume: 9mm3
+	Object use texture <foliage Diffuse Color>
+	Object use texture <foliage.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 17
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2
+[WW]		Sharp Edge: 2
+[WW]		Overhang Face: 960
+Invalid units. Adapting STL export scale...
+	Exporting to <Plane.001.stl>...
+		Export ok
+Object <Plane>:
+	Raw dimensions (mm): 3, 3, 5.453181266784668
+	Volume: 64mm3
+	Object use texture <Tronk Diffuse Color>
+	Object use texture <trunk.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 124
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 1
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 7
+[WW]		Sharp Edge: 1
+[WW]		Overhang Face: 18
+Invalid units. Adapting STL export scale...
+	Exporting to <Plane.stl>...
+		Export ok
+Object <Cylinder.015>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.015.stl>...
+		Export ok
+Object <Cylinder.014>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.014.stl>...
+		Export ok
+Object <Cylinder.013>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.013.stl>...
+		Export ok
+Object <Cylinder.012>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.012.stl>...
+		Export ok
+Object <Cylinder.011>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.011.stl>...
+		Export ok
+Object <Cylinder.010>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.010.stl>...
+		Export ok
+Object <Cylinder.009>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.009.stl>...
+		Export ok
+Object <Cylinder.008>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.008.stl>...
+		Export ok
+Object <Cylinder.007>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.007.stl>...
+		Export ok
+Object <Cylinder.006>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.006.stl>...
+		Export ok
+Object <Cylinder.005>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.005.stl>...
+		Export ok
+Object <Cylinder.004>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.004.stl>...
+		Export ok
+Object <Cylinder.003>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.003.stl>...
+		Export ok
+Object <Cylinder.002>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.002.stl>...
+		Export ok
+Object <Cylinder.001>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.001.stl>...
+		Export ok
+Object <Cylinder>:
+	Raw dimensions (mm): 0, 0, 0.30000001192092896
+	Volume: 0mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 2
+[WW]		Zero Faces: 96
+[WW]		Zero Edges: 96
+[WW]		Non-Flat Faces: 97
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+Invalid units. Adapting STL export scale...
+	Exporting to <Cylinder.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 18 part(s) submitted
+[WW] Many parts!
+- 2 part(s) use a texture
+- total volume: 77
+[WW]	 Low volume! Wrong unit?
+- 94 warnings
+- 1 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/AH//lego2.blend
+
+Blender quit

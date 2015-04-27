@@ -1,0 +1,74 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group W
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+[WW] Object <Tower> contains 2 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <Tower.001>:
+	Raw dimensions (mm): 107, 107, 15.037044525146484
+	Volume: 173472mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 129
+[WW]		Zero Faces: 4241
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 318
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 7770
+	Exporting to <Tower.001.stl>...
+		Export ok
+Object <Tower>:
+	Raw dimensions (mm): 85, 85, 101.80517578125
+	Volume: 751655mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 15
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 23
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 8
+	Exporting to <Tower.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 2 part(s) submitted
+- 0 part(s) use a texture
+[EE]	No texture!
+- total volume: 925128
+[EE]	Above limit (360000mm3)!
+- 11 warnings
+- 2 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/W//defifin.blend
+
+Blender quit
