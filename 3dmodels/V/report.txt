@@ -1,0 +1,88 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group V
+
+
+================================
+
+Global unit scale: 0.009999999776482582
+[EE]	 Unit is incorrect!
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Point.005>:
+[WW]	Not a mesh, ignoring
+Object <Point.004>:
+[WW]	Not a mesh, ignoring
+Object <Point.003>:
+[WW]	Not a mesh, ignoring
+Object <Point.002>:
+[WW]	Not a mesh, ignoring
+Object <Point.001>:
+[WW]	Not a mesh, ignoring
+Object <Point>:
+[WW]	Not a mesh, ignoring
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <Cylinder.004>:
+[WW]	Not a mesh, ignoring
+Object <Cylinder.006>:
+[WW]	Not a mesh, ignoring
+Object <Cylinder.007>:
+[WW]	Not a mesh, ignoring
+Object <Cylinder.008>:
+[WW]	Not a mesh, ignoring
+Object <Cylinder.009>:
+[WW]	Not a mesh, ignoring
+Object <BezierCurve>:
+[WW]	Not a mesh, ignoring
+Object <Cylinder.010>:
+[WW]	Not a mesh, ignoring
+Object <Cylinder.011>:
+[WW]	Not a mesh, ignoring
+Object <Circle>:
+	Raw dimensions (mm): 5, 5, 7.872732162475586
+	Volume: 278mm3
+	Object use texture <text4.jpg>
+	Object use texture <Texture.jpg>
+	Object use texture <Soie.jpg>
+	Object use texture <Macarons.jpg>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 251
+[WW]		Bad Contig. Edges: 1
+[WW]		Intersect Face: 27
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 684
+[WW]		Thin Faces: 73
+[WW]		Sharp Edge: 1
+[WW]		Overhang Face: 1658
+Invalid units. Adapting STL export scale...
+	Exporting to <Circle.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 1 part(s) submitted
+- 1 part(s) use a texture
+- total volume: 278
+[WW]	 Low volume! Wrong unit?
+- 24 warnings
+- 1 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/V//GroupV [double removed by severin].blend
+
+Blender quit
