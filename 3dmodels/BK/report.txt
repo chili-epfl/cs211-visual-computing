@@ -1,0 +1,92 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group BK
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+[WW] Object <Feuillage> contains 2 loose part(s)! They are now separated
+
+
+--------------------------------
+
+Object <Feuillage.001>:
+	Raw dimensions (mm): 52, 51, 18.654300689697266
+	Volume: 50492mm3
+	Object use texture <Material.001 Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 27
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <Feuillage.001.stl>...
+		Export ok
+Object <Lamp.001>:
+[WW]	Not a mesh, ignoring
+Object <Feuillage>:
+	Raw dimensions (mm): 51, 51, 15.032142639160156
+	Volume: 39492mm3
+	Object use texture <Material.001 Diffuse Color>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 1
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 1
+	Exporting to <Feuillage.stl>...
+		Export ok
+Object <Trunk>:
+	Raw dimensions (mm): 27, 20, 53.549964904785156
+	Volume: 30057mm3
+	Object use texture <trunk.jpg>
+	Object use texture <trunk.jpg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+[WW]		Non-Flat Faces: 3
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 3
+	Exporting to <Trunk.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 3 part(s) submitted
+- 3 part(s) use a texture
+- total volume: 120042
+	 Ok, below limit
+- 9 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/BK//arbreSimpleFinal.blend
+
+Blender quit

@@ -1,0 +1,324 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group AE
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Back.005>:
+	Raw dimensions (mm): 10, 14, 2.5432944297790527
+	Volume: 391mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 165
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 484
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2180
+		Sharp Edge: 0
+[WW]		Overhang Face: 689
+	Exporting to <Back.005.stl>...
+		Export ok
+Object <Back.004>:
+	Raw dimensions (mm): 15, 17, 7.484980583190918
+	Volume: 2012mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 200
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 266
+		Sharp Edge: 0
+[WW]		Overhang Face: 113
+	Exporting to <Back.004.stl>...
+		Export ok
+Object <Back.003>:
+	Raw dimensions (mm): 10, 24, 4.978121757507324
+	Volume: 1287mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 5
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2
+		Sharp Edge: 0
+[WW]		Overhang Face: 4
+	Exporting to <Back.003.stl>...
+		Export ok
+Object <Back.002>:
+	Raw dimensions (mm): 10, 24, 5.01069974899292
+	Volume: 1295mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 6
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 4
+	Exporting to <Back.002.stl>...
+		Export ok
+Object <Back.001>:
+	Raw dimensions (mm): 24, 30, 5.388561248779297
+	Volume: 4033mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 28
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 144
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 143
+		Sharp Edge: 0
+[WW]		Overhang Face: 31
+	Exporting to <Back.001.stl>...
+		Export ok
+Object <Front.009>:
+	Raw dimensions (mm): 10, 17, 6.557861328125
+	Volume: 1220mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 145
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 1041
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 209
+		Sharp Edge: 0
+[WW]		Overhang Face: 557
+	Exporting to <Front.009.stl>...
+		Export ok
+Object <Front.008>:
+	Raw dimensions (mm): 24, 30, 6.108281135559082
+	Volume: 4579mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 42
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 166
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 49
+		Sharp Edge: 0
+[WW]		Overhang Face: 115
+	Exporting to <Front.008.stl>...
+		Export ok
+Object <Front.007>:
+	Raw dimensions (mm): 3, 4, 4.484897613525391
+	Volume: 65mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 211
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 40
+[WW]		Sharp Edge: 34
+[WW]		Overhang Face: 12
+	Exporting to <Front.007.stl>...
+		Export ok
+Object <Front.006>:
+	Raw dimensions (mm): 3, 4, 4.292217254638672
+	Volume: 56mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 26
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 30
+	Exporting to <Front.006.stl>...
+		Export ok
+Object <Front.005>:
+	Raw dimensions (mm): 3, 4, 4.47850227355957
+	Volume: 65mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 218
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 41
+[WW]		Sharp Edge: 34
+[WW]		Overhang Face: 12
+	Exporting to <Front.005.stl>...
+		Export ok
+Object <Front.004>:
+	Raw dimensions (mm): 3, 4, 4.292215347290039
+	Volume: 56mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 32
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 25
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 30
+	Exporting to <Front.004.stl>...
+		Export ok
+Object <Front.003>:
+	Raw dimensions (mm): 10, 24, 5.432295799255371
+	Volume: 1403mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 22
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 14
+	Exporting to <Front.003.stl>...
+		Export ok
+Object <Front.002>:
+	Raw dimensions (mm): 10, 24, 5.399716377258301
+	Volume: 1394mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 23
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+[WW]		Overhang Face: 14
+	Exporting to <Front.002.stl>...
+		Export ok
+Object <Front.001>:
+	Raw dimensions (mm): 15, 17, 6.604487419128418
+	Volume: 1781mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 148
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 43
+		Sharp Edge: 0
+[WW]		Overhang Face: 62
+	Exporting to <Front.001.stl>...
+		Export ok
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <Spot.005>:
+[WW]	Not a mesh, ignoring
+Object <Spot.004>:
+[WW]	Not a mesh, ignoring
+Object <Spot.003>:
+[WW]	Not a mesh, ignoring
+Object <Spot.002>:
+[WW]	Not a mesh, ignoring
+Object <Spot.001>:
+[WW]	Not a mesh, ignoring
+Object <Spot>:
+[WW]	Not a mesh, ignoring
+Object <Back>:
+	Raw dimensions (mm): 10, 14, 2.5766220092773438
+	Volume: 395mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 164
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 361
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 2181
+		Sharp Edge: 0
+[WW]		Overhang Face: 688
+	Exporting to <Back.stl>...
+		Export ok
+Object <Front>:
+	Raw dimensions (mm): 10, 17, 6.597825050354004
+	Volume: 1237mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 149
+[WW]		Bad Contig. Edges: 1
+[WW]		Intersect Face: 649
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 198
+		Sharp Edge: 0
+[WW]		Overhang Face: 555
+	Exporting to <Front.stl>...
+		Export ok
+Object <Bottom>:
+	Raw dimensions (mm): 34, 34, 20.000001907348633
+	Volume: 24499mm3
+	Object use texture <texture_sable.jpeg>
+	Object use texture <texture_sable.jpeg>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 649
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+[WW]		Thin Faces: 242
+		Sharp Edge: 0
+[WW]		Overhang Face: 535
+	Exporting to <Bottom.stl>...
+		Export ok
+
+
+================================
+
+SUMMARY
+
+- 17 part(s) submitted
+[WW] Many parts!
+- 1 part(s) use a texture
+- total volume: 45778
+	 Ok, below limit
+- 65 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/AE//3Dmodel_AE [cleaned loose vertices and separated by severin].blend
+
+Blender quit

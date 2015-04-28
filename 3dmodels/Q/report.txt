@@ -1,0 +1,72 @@
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group Q
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <LegoKnob_Cylinder>:
+	Raw dimensions (mm): 45, 4, 45.19999694824219
+	Volume: 8989mm3
+[WW]	Object has no texture!
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 561
+[WW]		Zero Faces: 35
+[WW]		Zero Edges: 1120
+[WW]		Non-Flat Faces: 106
+[WW]		Thin Faces: 764
+		Sharp Edge: 0
+[WW]		Overhang Face: 36
+	Exporting to <LegoKnob_Cylinder.stl>...
+		Export ok
+Object <Cylinder>:
+	Raw dimensions (mm): 27, 99, 27.94498062133789
+	Volume: 78037mm3
+	Object use texture <BeerUV>
+	3D toolbox analyse:
+		Non Manifold Edge: 0
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 259
+[WW]		Zero Faces: 12
+[WW]		Zero Edges: 384
+[WW]		Non-Flat Faces: 38
+[WW]		Thin Faces: 201
+		Sharp Edge: 0
+[WW]		Overhang Face: 2
+	Exporting to <Cylinder.stl>...
+		Export ok
+Object <Lamp>:
+[WW]	Not a mesh, ignoring
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 2 part(s) submitted
+- 1 part(s) use a texture
+- total volume: 87027
+	 Ok, below limit
+- 14 warnings
+- 0 errors
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/Q//FineBeerMilestone2.blend
+
+Blender quit

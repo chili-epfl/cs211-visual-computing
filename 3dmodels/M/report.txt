@@ -1,0 +1,124 @@
+found bundled python: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/python
+read blend: /home/lemaigna/src/cs211-visual-computing/milestone 2/pre-assessment/../submissions/M//arbre.blend
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+Error: Object does not have geometry data
+module changed on disk: /home/lemaigna/applis/blender-2.74-rc2-linux-glibc211-x86_64/2.74/scripts/addons/object_print3d_utils/__init__.py reloading...
+
+
+================================
+
+Pre-assessment for group M
+
+
+================================
+
+Global unit scale: 0.0010000000474974513
+	 Fine, millimeters
+
+
+--------------------------------
+
+
+
+--------------------------------
+
+Object <Tronc>:
+	Raw dimensions (mm): 51, 51, 48.303009033203125
+	Volume: 128331mm3
+	Object use texture <Tronc Diffuse Color>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 16
+		Bad Contig. Edges: 0
+[WW]		Intersect Face: 827
+[WW]		Zero Faces: 58
+[WW]		Zero Edges: 1088
+[WW]		Non-Flat Faces: 96
+[WW]		Thin Faces: 796
+[WW]		Sharp Edge: 221
+[WW]		Overhang Face: 5
+	Exporting to <Tronc.stl>...
+		Export ok
+Object <Feuille>:
+	Raw dimensions (mm): 42, 44, 53.60298156738281
+	Volume: 100717mm3
+	Object use texture <Feuille_Skin>
+	3D toolbox analyse:
+[WW]		Non Manifold Edge: 16
+		Bad Contig. Edges: 0
+		Intersect Face: 0
+		Zero Faces: 0
+		Zero Edges: 0
+		Non-Flat Faces: 0
+		Thin Faces: 0
+		Sharp Edge: 0
+		Overhang Face: 0
+	Exporting to <Feuille.stl>...
+		Export ok
+Object <Camera>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.001>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.002>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.003>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.000>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.004>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.005>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.006>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.007>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.008>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.009>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.010>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.011>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.012>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.013>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.014>:
+[WW]	Not a mesh, ignoring
+Object <Lamp.015>:
+[WW]	Not a mesh, ignoring
+
+
+================================
+
+SUMMARY
+
+- 2 part(s) submitted
+- 2 part(s) use a texture
+- total volume: 229048
+	 Ok, below limit
+- 26 warnings
+- 0 errors
+
+Blender quit
